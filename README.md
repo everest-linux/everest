@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/amogus3016/amogus3016/main/Everest%20Logo.png)
+
 # Everest Linux
 **A lightweight linux distribution based on the busybox coreutils**
 
