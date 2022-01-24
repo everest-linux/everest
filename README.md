@@ -3,6 +3,8 @@
 # Everest Linux
 **A lightweight source based Linux distribution.**
 
+Everest does not ship with a package manager (however the user can install one, notably Homebrew (https://brew.sh). This means the user must install all packages from tarballs.
+
 ![alt text](https://raw.githubusercontent.com/amogus3016/amogus3016/main/everest%2Bsummit%20wm%20mockup.png)
 *A mockup of Everest with the Summit Window Manager, and Glacier/Sherpa versions printed*
 
