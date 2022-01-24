@@ -13,3 +13,5 @@ Note: this repository only acts as a base to download Everest. The source code f
 **Check out our other projects:**
 
 Sherpa Terminal Emulator: https://github.com/everest-linux/sherpa
+
+xinfo System Information Script: https://github.com/everest-linux/xinfo
