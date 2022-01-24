@@ -15,6 +15,8 @@ Everest does not ship with a package manager (however the user can install one, 
 - systemd developers (https://github.com/systemd/systemd)
 - Homebrew developers (https://brew.sh)
 - GNU and FSF (https://gnu.org) (https://fsf.org)
+- zsh and OhMyZsh developers (https://github.com/zsh-users/zsh) (https://github.com/ohmyzsh/ohmyzsh)
+- The Everest Linux community
 
 **Check out our other projects:**
 
