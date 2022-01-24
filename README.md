@@ -9,3 +9,7 @@ Everest does not ship with a package manager (however the user can install one, 
 *A mockup of Everest with the Summit Window Manager, and Glacier/Sherpa versions printed*
 
 Note: this repository only acts as a base to download Everest. The source code for various parts of Everest can be found on other repositories.
+
+**Check out our other projects:**
+
+Sherpa Terminal Emulator: https://github.com/everest-linux/sherpa
