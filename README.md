@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/everest-linux/amogus3016/main/new%20everest.png)
+![alt text](https://raw.githubusercontent.com/everest-linux/amogus3016/main/new%20everest%20logo.png)
 
 # Everest Linux
 **A lightweight source based Linux distribution.**
