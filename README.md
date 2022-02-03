@@ -1,9 +1,13 @@
 ![alt text](https://raw.githubusercontent.com/everest-linux/amogus3016/main/new%20everest%20logo.png)
 
 # Everest Linux
-**A lightweight source based Linux distribution.**
+**The enthusiast's distro**
 
-Everest does not ship with a package manager (however the user can install one, notably Homebrew (https://brew.sh). This means the user must install all packages from tarballs.
+Everest comes in 2 flavors, Everest Hike and Everest Summit.
+
+Everest Hike aims to provide users with a reasonable amount of Linux experience a comfortable system.
+
+Everest Summit aims to provide advanced users with a highly flexible, customizeable, and lightweight system.
 
 ![alt text](https://raw.githubusercontent.com/everest-linux/amogus3016/main/Everest%20default%20desktop.png)
 *The default Xfce configuration on the Xfce installation ISO*
