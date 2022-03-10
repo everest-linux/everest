@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Everest Linux
 
-You can use the [editor on GitHub](https://github.com/everest-linux/everest/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A minimalist GNU/Linux distribution focused on simplicity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Includes the Glacier package manager, a simple script which fetches tarballs from https://github.com/everest-linux/glacier-pkgs
 
-### Markdown
+### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3/10/22 > We are looking for help with packaging essential system software, such as Glibc, Binutils, and GCC.
 
-```markdown
-Syntax highlighted code block
+3/9/22 > Glacier 0.1-rc has been released.
 
-# Header 1
-## Header 2
-### Header 3
+2/14/22 > 0.1.0-systemd-rc has been released.
 
-- Bulleted
-- List
+### Installation
 
-1. Numbered
-2. List
+Installation instructions are considered unfinished, and as a result may be inconsistent.
 
-**Bold** and _Italic_ and `Code` text
+The following steps should be followed should you wish to proceed anyways:
 
-[Link](url) and ![Image](src)
-```
+- Unzip Everest tarball into /mnt/everest
+- chroot into the system
+- install essential packages
+- configure the system
+- configure a bootloader
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contributing
 
-### Jekyll Themes
+We are always looking for volunteers to help us mature our distribution and package set.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/everest-linux/everest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some ways you can contribute:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Submit packages
+- Edit wiki entries
+- Test packages
+- Test releases
