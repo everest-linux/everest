@@ -8,7 +8,7 @@ It saves package information files to /etc/glacier/pkginfo
 
 Packages should be formatted as `tar.gz` archives, and should contain the following:
 
-- The package's executable
+- The package's executable (or any files required to compile said program)
 - 3 instruction scripts written in Shell, INSTALL.sh, UPDATE.sh, and REMOVE.sh
 - package_name-pkginfo.json, containing the following:
 ```
