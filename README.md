@@ -19,3 +19,11 @@ Everest Linux is a source based Linux distribution that intends to provide a sta
 Sherpa Terminal Emulator: https://github.com/everest-linux/sherpa
 
 xinfo System Information Script: https://github.com/everest-linux/xinfo
+
+**Join our Discord server:**
+
+https://discord.gg/n2VMznYe6u
+
+**Join our IRC channes (libera.chat):**
+
+#everestlinux #everestlinux-ot
